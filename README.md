@@ -39,5 +39,5 @@ webpack 환경에서 Three.js 라이브러리와 자바스크립트를 사용하
 (내용 추가 및 수정 중입니다.)
 
 ## License
-Designed for portfolio
+개인 포트폴리오를 위해 만들어진 사이트입니다.
 
